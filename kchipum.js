@@ -13,4 +13,4 @@ else (){console.log("gana papel");}
 if(tijera===tijera){console.log("DRAW");}
 else if (tijera&papel){console.log("gana tijera");}
 else (){console.log("gana piedra");}
-
+///////////////////////////////////////////////////////////
