@@ -26,3 +26,18 @@ for(var estudiante of estudiantes){
 // Hola, sergio
 // Hola, rosa
 // Hola, daniel
+                    -----------------------------------
+
+While
+var estudiantes= ["Lio","Marcos","Bruno","Coco"];
+function saludarEstudiantes(estudiante) {
+    console.log(`Hola, ${estudiante}`);}
+
+    while (estudiantes.length>0) 
+    {var estudiante =estudiantes.shift();------>el .shift va eliminando elementos
+    saludarEstudiantes(estudiante);}
+// Hola, Lio
+// Hola, Marcos
+// Hola, Bruno
+// Hola, Coco
+
