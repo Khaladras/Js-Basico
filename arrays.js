@@ -9,6 +9,7 @@
     console.log(frutas[2]);
     // Cereza
 
+    -No es necesario crear variables ni dar parametros-
 
     var masFrutas = frutas.push("Uvas"); añade elementos al final del array
     //(5) ['Manzana', 'Platano', 'Cereza', 'Fresa', 'Uvas']
