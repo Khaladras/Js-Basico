@@ -1,4 +1,4 @@
-var Objecto={};---->sintaxsis de objecto
+var Objeto={};   ---->sintaxsis de objeto
 
 var miAuto={
     marca:"Toyota",

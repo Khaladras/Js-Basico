@@ -14,8 +14,9 @@ for(var i=0; i<estudiantes.length; i++) {saludarEstudiantes(estudiantes[i]);}
 // Hola, daniel
                         --------------------------------
 
-                        
-For Of
+                            FOR OF
+for (const iterator of object) {} Of
+
 var estudiantes= ["Maria","Sergio","Rosa","Daniel"];
 function saludarEstudiantes(estudiante){
     console.log(`Hola, ${estudiante}`);}
@@ -27,8 +28,9 @@ for(var estudiante of estudiantes){
 // Hola, rosa
 // Hola, daniel
                     -----------------------------------
+                        WHILE
+while (condition) {}
 
-While
 var estudiantes= ["Lio","Marcos","Bruno","Coco"];
 function saludarEstudiantes(estudiante) {
     console.log(`Hola, ${estudiante}`);}
